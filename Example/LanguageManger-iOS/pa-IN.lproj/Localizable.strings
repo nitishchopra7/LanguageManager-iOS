@@ -1,0 +1,16 @@
+/*
+ Localizable.strings
+ LanguageManager
+ 
+ Created by abedalkareem omreyh on 4/9/17.
+ Copyright © 2017 abedalkareem. All rights reserved.
+ */
+
+"Test language" = "ਟੈਸਟ ਦੀ ਭਾਸ਼ਾ";
+"Hello !!" = "ਸਤ ਸ੍ਰੀ ਅਕਾਲ !!";
+"Hi all !" = "ਸਾਰਿਆਂ ਨੂੰ ਸਤਿ ਸ਼੍ਰੀ ਅਕਾਲ !";
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam." = "ਲੋਅਰਸ ਇਪਸਮ ਡੋਲਰ ਬੈਸਟ ਅਮੇਰ, ਪ੍ਰੈਕਟਿਸ ਅਥਾਰਿਟੀ ਏਲੀਟ, ਸੈਮ ਈਮਸੋਡਰ ਟੈਂਪੋਰ ਇਨ ਇਨਸਾਈਡੈਂਟ ਯੂਟ ਲੇਬਰ ਐਂਡ ਡੋਰੋਰ ਮੈਗਨਾ ਅਲਿਕਆ. ਤੁਹਾਡੇ ਲਈ ਘੱਟੋ ਘੱਟ ਵੀ ਸ਼ਾਮਲ ਹੈ.";
+"Change language" = "ਭਾਸ਼ਾ ਬਦਲੋ";
+"Arabic" = "ਅਰਬੀ";
+"Welcome" = "ਸਵਾਗਤ ਹੈ";
+"Localize from storyboard" = "ਸਟੋਰੀ ਬੋਰਡ ਤੋਂ ਸਥਾਨਕ ਕਰੋ";

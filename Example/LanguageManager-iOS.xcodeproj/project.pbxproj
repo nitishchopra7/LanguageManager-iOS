@@ -32,6 +32,9 @@
 		607FACDF1AFB9204008FA782 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		91EFE94B420D3D0011D9C18E /* Pods-LanguageManger-iOS_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LanguageManger-iOS_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-LanguageManger-iOS_Example/Pods-LanguageManger-iOS_Example.release.xcconfig"; sourceTree = "<group>"; };
 		9E38F3D5504A5993452C789B /* LanguageManger-iOS.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "LanguageManger-iOS.podspec"; path = "../LanguageManger-iOS.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A158EFB125A40BA2007F17CD /* pa-IN */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pa-IN"; path = "pa-IN.lproj/Main.strings"; sourceTree = "<group>"; };
+		A158EFB225A40BA3007F17CD /* pa-IN */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pa-IN"; path = "pa-IN.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		A158EFB325A40BA3007F17CD /* pa-IN */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pa-IN"; path = "pa-IN.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		AE394E2EA80836410C76F449 /* Pods-LanguageManager-iOS_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LanguageManager-iOS_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LanguageManager-iOS_Example/Pods-LanguageManager-iOS_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		B1BC72714189E51D2D2BD51D /* Pods-LanguageManager-iOS_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LanguageManager-iOS_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-LanguageManager-iOS_Example/Pods-LanguageManager-iOS_Example.release.xcconfig"; sourceTree = "<group>"; };
 		BB390CED6117370856698214 /* Pods-LanguageManger-iOS_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LanguageManger-iOS_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LanguageManger-iOS_Tests/Pods-LanguageManger-iOS_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -187,6 +190,7 @@
 				en,
 				Base,
 				ar,
+				"pa-IN",
 			);
 			mainGroup = 607FACC71AFB9204008FA782;
 			productRefGroup = 607FACD11AFB9204008FA782 /* Products */;
@@ -270,6 +274,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				607FACDA1AFB9204008FA782 /* Base */,
+				A158EFB125A40BA2007F17CD /* pa-IN */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -278,6 +283,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				607FACDF1AFB9204008FA782 /* Base */,
+				A158EFB225A40BA3007F17CD /* pa-IN */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -287,6 +293,7 @@
 			children = (
 				C6CA4012211CC2F100D294E5 /* en */,
 				C6CA4014211CC30600D294E5 /* ar */,
+				A158EFB325A40BA3007F17CD /* pa-IN */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
